@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Строки фич, перенесённых из exteraGram. -->
+<resources>
+    <string name="OpenExtera" translatable="false">exteraless</string>
+    <string name="OpenExteraInfo">Зрабіце кліент сапраўды сваім</string>
+
+    <string name="OpenExteraChats">Чат</string>
+    <string name="AddCommaAfterMention">Дадаць коску пасля згадкі</string>
+
+    <string name="OpenExteraCategories">Катэгорыі</string>
+    <string name="OpenExteraGeneral">Агульныя</string>
+    <string name="OpenExteraAppearance">Выгляд</string>
+    <string name="OpenExteraOther">Іншае</string>
+
+    <string name="OpenExteraLinks">Спасылкі</string>
+    <string name="OpenExteraSource">Зыходны код</string>
+    <string name="QrTitleLink">Спасылка</string>
+    <string name="QrTitleWifi">Сетка Wi-Fi</string>
+    <string name="QrTitleLogin">Код уваходу ў Telegram</string>
+    <string name="QrTitleText">Сканаваны тэкст</string>
+    <string name="QrWifiOpenSettings">Адкрыць налады Wi-Fi</string>
+    <string name="QrWifiCopyPassword">Скапіяваць пароль</string>
+    <string name="QrWifiPasswordCopied">Пароль скапіяваны</string>
+    <string name="QrWifiUnknownNetwork">Назва сеткі адсутнічае ў кодзе</string>
+    <string name="QrLoginHint">Гэты код уваходзіць у акаўнт. Скарыстайцеся Налады → Прылады → Падключыць працоўны стол — гэты экран правярае код і абараняе ваш акаўнт.</string>
+    <string name="QrLoginConfirm">Гэты код уваходзіць у ваш акаўнт з новай прылады. Дазвольце, толькі калі вы ўваходзіце са сваёй прылады.</string>
+    <string name="AppIconExteraless" translatable="false">exteraless</string>
+    <string name="AppIconBlueprint" translatable="false">Blueprint</string>
+    <string name="AppIconRed" translatable="false">Red</string>
+    <string name="AppIconNya" translatable="false">Nya</string>
+    <string name="AppIconAyu" translatable="false">Ayu</string>
+    <string name="AppIconQuack" translatable="false">Quack</string>
+    <string name="AppIconGo" translatable="false">Go</string>
+    <string name="AppIconHand" translatable="false">Hand</string>
+    <string name="AppIconMono" translatable="false">Mono</string>
+    <string name="AppIconNothing" translatable="false">Nothing</string>
+    <string name="AppIconPlus" translatable="false">Plus</string>
+    <string name="AppIconsSelect">Выбраць</string>
+    <string name="AppIconsKeep">Пакінуць гэты</string>
+    <string name="AppIconInfoExteraless"><!-- сюды подпіс --></string>
+    <string name="AppIconInfoBlueprint"><!-- сюды подпіс --></string>
+    <string name="AppIconInfoRed"><!-- сюды подпіс --></string>
+    <string name="AppIconInfoNya"><!-- сюды подпіс --></string>
+    <string name="AppIconInfoAyu"><!-- сюды подпіс --></string>
+    <string name="AppIconInfoQuack"><!-- сюды подпіс --></string>
+    <string name="AppIconInfoGo"><!-- сюды подпіс --></string>
+    <string name="AppIconInfoHand"><!-- сюды подпіс --></string>
+    <string name="AppIconInfoMono"><!-- сюды подпіс --></string>
+    <string name="AppIconInfoNothing"><!-- сюды подпіс --></string>
+    <string name="AppIconInfoPlus"><!-- сюды подпіс --></string>
+    <string name="AppIconInfoTelegram"><!-- сюды подпіс --></string>
+    <string name="AppIconInfoVintage"><!-- сюды подпіс --></string>
+    <string name="AppIconInfoAqua"><!-- сюды подпіс --></string>
+    <string name="AppIconInfoPremium"><!-- сюды подпіс --></string>
+    <string name="AppIconInfoTurbo"><!-- сюды подпіс --></string>
+    <string name="AppIconInfoNox"><!-- сюды подпіс --></string>
+    <string name="OpenExteraPreferences">Налады exteraless</string>
+    <string name="OpenExteraDesignSection">Дызайн</string>
+    <string name="OpenExteraDesigner">Іконкі і дызайн</string>
+    <string name="OpenExteraDesignStudio">Студыя дызайну</string>
+    <string name="OEDownloadEmojiPacks">Спампаваць наборы эмодзі</string>
+
+    <string name="OESubtitles">Субтытры</string>
+    <string name="OEChooseSubtitles">Выбраць субтытры</string>
+    <string name="OEDisableSubtitles">Адключыць субтытры</string>
+    <string name="OESubtitlesAdded">Субтытры ўключаны.</string>
+    <string name="OESubtitlesRemoved">Субтытры адключаны.</string>
+    <string name="OESubtitlesLoadError">Не ўдалося загрузіць субтытры.</string>
+    <string name="OESubtitlesUnsupportedFormat">Фармат субтытраў не падтрымліваецца.</string>
+    <string name="ProxyDisableOn">Адключыць проксі</string>
+    <string name="ProxyDisableNever">Ніколі</string>
+    <string name="ProxyDisableAlways">Заўсёды</string>
+    <string name="ProxyDisableOnVpn" translatable="false">VPN</string>
+    <string name="ProxyDisableOnMobileData">Мабільныя даныя</string>
+    <string name="ProxyDisableOnWiFi" translatable="false">Wi-Fi</string>
+    <string name="MainTabsHideCallsSettings">Схаваць укладку Выклікі</string>
+    <string name="MainTabsHideProfile">Схаваць укладку Профіль</string>
+    <string name="OEBotWebViewUpdate">Абнавіць WebView</string>
+    <string name="OEProfilerStart">Запусціць прафайлер затармажэнняў</string>
+    <string name="OEProfilerStop">Спыніць прафайлер і падзяліцца справаздачай</string>
+    <string name="OEProfilerStarted">Прафайлер запушчаны. Карыстайцеся праграмай як звычайна, потым спыніце яго тут.</string>
+    <string name="OEProfilerShareLast">Падзяліцца апошняй справаздачай прафайлера</string>
+    <string name="OEEnergyProfilerStart">Запусціць энергапрафайлер</string>
+    <string name="OEEnergyProfilerStop">Спыніць энергапрафайлер і падзяліцца справаздачай</string>
+    <string name="OEEnergyProfilerStarted">Энергапрафайлер запушчаны, у тым ліку ў фоне і пасля перазапуску. Карыстайцеся тэлефонам як звычайна некалькі гадзін, потым спыніце яго тут.</string>
+    <string name="OEEnergyProfilerShareCurrent">Падзяліцца бягучай энергасправаздачай</string>
+    <string name="OEEnergyProfilerShareLast">Падзяліцца апошняй энергасправаздачай</string>
+    <string name="OEPluginToggleLogShare">Падзяліцца журналам пераключэння плагінаў</string>
+    <string name="OEProfileIdDate">Дата рэгістрацыі і далучэння</string>
+    <string name="OEProfileAccountCreated">**%1$s** далучыўся да Telegram %2$s</string>
+    <string name="OEProfileJoinedChat">Вы далучыліся да **%1$s** %2$s</string>
+    <string name="OEProfileJoinedChannel">Вы падпісаліся на **%1$s** %2$s</string>
+    <string name="OEProfileChatCreated">**%1$s** быў створаны %2$s</string>
+    <string name="OEProfileJoinDateUnknown">Дата далучэння недаступная</string>
+</resources>
