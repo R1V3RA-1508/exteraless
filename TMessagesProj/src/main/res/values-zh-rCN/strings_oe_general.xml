@@ -96,8 +96,8 @@
     <string name="OEAyuOtherHeader">其他</string>
     <string name="OEAyuDangerHeader">危险区域</string>
     <string name="OEAyuSaveReadDateInfo">记录你的消息何时被阅读和收听。Telegram 不提供时间时，会显示在消息菜单中。</string>
-    <string name="OEAyuPlayedTodayAt">%s 已收听</string>
-    <string name="OEAyuPlayedYesterdayAt">昨天 %s 已收听</string>
+    <string name="OEAyuPlayedTodayAt">%1$s 已收听</string>
+    <string name="OEAyuPlayedYesterdayAt">昨天 %1$s 已收听</string>
     <string name="OEAyuPlayedDateTimeAt">%1$s %2$s 已收听</string>
     <string name="OEAyuForwardLoadingMedia">正在加载媒体</string>
     <string name="OEAyuForwardLoadingCount">文件：%1$d / %2$d</string>

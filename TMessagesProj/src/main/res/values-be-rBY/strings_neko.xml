@@ -6,7 +6,7 @@
     <string name="HidePhone">Схаваць нумар тэлефона</string>
     <string name="DeleteAllFromSelf">Выдаліць мае паведамленні</string>
     <string name="DeleteAllFromSelfAlert">Папярэджанне! Гэта **выдаліць усе вашы паведамленні** ў гэтым чаце для **усіх** удзельнікаў.</string>
-    <string name="DeleteAllFromSelfAlertBefore">Папярэджанне! Гэта **выдаліць усе вашы паведамленні да %s** у гэтым чаце для **усіх** удзельнікаў.</string>
+    <string name="DeleteAllFromSelfAlertBefore">Папярэджанне! Гэта **выдаліць усе вашы паведамленні да %1$s** у гэтым чаце для **усіх** удзельнікаў.</string>
     <string name="DeleteAllFromSelfBefore">Да...</string>
     <string name="DeleteAllFromSelfAdmin">З правамі адміністратара</string>
     <string name="DeleteAllFromSelfDone">Усе вашы паведамленні выдалены</string>
@@ -130,12 +130,12 @@
     <string name="PasscodePanicCodeAbout">Выкарыстоўвайце код трэвогі, каб выйсці з сістэмы, калі нешта пойдзе не так.</string>
     <string name="RestrictionReason">Прычына абмежавання</string>
     <string name="InvalidCustomEmojiTypeface">Няправільны файл шрыфта.</string>
-    <string name="DownloadEmojiSet">Спампаваць %s</string>
+    <string name="DownloadEmojiSet">Спампаваць %1$s</string>
     <string name="EmojiSets">Наборы эмодзі</string>
     <string name="MyEmojiSets">Мае наборы эмодзі</string>
     <string name="InstalledEmojiSet">Усталяваны</string>
     <string name="InstallingEmojiSet">Устаноўка…</string>
-    <string name="UpdateEmojiSet">Абнавіць %s</string>
+    <string name="UpdateEmojiSet">Абнавіць %1$s</string>
     <string name="EmojiSetHint">Гэта ўплывае толькі на знешні выгляд эмодзі для вас. Іншыя бачаць іх згодна са сваімі наладамі.</string>
     <string name="CustomEmojiSetHint">Імпартуйце і выбірайце наборы эмодзі з унутранага сховішча.</string>
     <string name="AddEmojiSet">Дадаць набор эмодзі</string>
@@ -153,7 +153,7 @@
     <string name="ClearRecentChatAlert">Хочаце ачысціць свае нядаўнія чаты?</string>
     <string name="CloudConfig">Воблачныя налады</string>
     <string name="CloudConfigDesc">Захоўвайце свае Налады N у воблака Telegram.</string>
-    <string name="CloudConfigSyncDate">Апошняя сінхранізацыя: %s, воблака: %s</string>
+    <string name="CloudConfigSyncDate">Апошняя сінхранізацыя: %1$s, воблака: %2$s</string>
     <string name="CloudConfigSyncDateNever">ніколі</string>
     <string name="CloudConfigSync">Сінхранізаваць у воблака</string>
     <string name="CloudConfigSyncShort">Сінхранізаваць</string>

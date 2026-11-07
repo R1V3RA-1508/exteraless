@@ -6,7 +6,7 @@
     <string name="HidePhone">전화번호 숨기기</string>
     <string name="DeleteAllFromSelf">내 메시지 삭제</string>
     <string name="DeleteAllFromSelfAlert">경고! 이 채팅의 **내 모든 메시지**가 **모든** 참가자에게서 삭제됩니다.</string>
-    <string name="DeleteAllFromSelfAlertBefore">경고! 이 채팅에서 **%s 이전의 내 모든 메시지**가 **모든** 참가자에게서 삭제됩니다.</string>
+    <string name="DeleteAllFromSelfAlertBefore">경고! 이 채팅에서 **%1$s 이전의 내 모든 메시지**가 **모든** 참가자에게서 삭제됩니다.</string>
     <string name="DeleteAllFromSelfBefore">이전...</string>
     <string name="DeleteAllFromSelfAdmin">관리자 권한으로</string>
     <string name="DeleteAllFromSelfDone">내 모든 메시지가 삭제되었습니다</string>
@@ -130,12 +130,12 @@
     <string name="PasscodePanicCodeAbout">문제가 생기면 패닉 코드로 계정에서 로그아웃합니다.</string>
     <string name="RestrictionReason">제한 사유</string>
     <string name="InvalidCustomEmojiTypeface">잘못된 글꼴 파일입니다.</string>
-    <string name="DownloadEmojiSet">%s 다운로드</string>
+    <string name="DownloadEmojiSet">%1$s 다운로드</string>
     <string name="EmojiSets">이모지 세트</string>
     <string name="MyEmojiSets">내 이모지 세트</string>
     <string name="InstalledEmojiSet">설치됨</string>
     <string name="InstallingEmojiSet">설치 중...</string>
-    <string name="UpdateEmojiSet">%s 업데이트</string>
+    <string name="UpdateEmojiSet">%1$s 업데이트</string>
     <string name="EmojiSetHint">이 설정은 내 이모지 모양에만 영향을 줍니다. 다른 사람에게는 각자의 설정에 따라 보입니다.</string>
     <string name="CustomEmojiSetHint">내부 저장소에서 이모지 세트를 가져와 선택합니다.</string>
     <string name="AddEmojiSet">이모지 세트 추가</string>
@@ -152,7 +152,7 @@
     <string name="ClearRecentChatAlert">최근 채팅을 지우시겠습니까?</string>
     <string name="CloudConfig">클라우드 설정</string>
     <string name="CloudConfigDesc">N-Settings를 Telegram 클라우드에 저장합니다.</string>
-    <string name="CloudConfigSyncDate">마지막 동기화: %s, 클라우드: %s</string>
+    <string name="CloudConfigSyncDate">마지막 동기화: %1$s, 클라우드: %2$s</string>
     <string name="CloudConfigSyncDateNever">없음</string>
     <string name="CloudConfigSync">클라우드에 동기화</string>
     <string name="CloudConfigSyncShort">동기화</string>

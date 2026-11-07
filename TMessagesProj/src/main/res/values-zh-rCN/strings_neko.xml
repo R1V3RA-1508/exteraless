@@ -6,7 +6,7 @@
     <string name="HidePhone">隐藏手机号码</string>
     <string name="DeleteAllFromSelf">删除自己所有消息</string>
     <string name="DeleteAllFromSelfAlert">警告！这将为此聊天中的 **所有人** 删除 **你发出的所有消息**。</string>
-    <string name="DeleteAllFromSelfAlertBefore">警告！这将为此聊天中的 **所有人** 删除 **全部您在%s前发出的消息**。</string>
+    <string name="DeleteAllFromSelfAlertBefore">警告！这将为此聊天中的 **所有人** 删除 **全部您在%1$s前发出的消息**。</string>
     <string name="DeleteAllFromSelfBefore">早于...</string>
     <string name="DeleteAllFromSelfAdmin">使用管理员权限</string>
     <string name="DeleteAllFromSelfDone">您的所有消息都已删除</string>
@@ -130,12 +130,12 @@
     <string name="PasscodePanicCodeAbout">在紧急情况下您可以使用紧急代码退出登录。</string>
     <string name="RestrictionReason">限制原因</string>
     <string name="InvalidCustomEmojiTypeface">无效的字体文件。</string>
-    <string name="DownloadEmojiSet">下载 %s</string>
+    <string name="DownloadEmojiSet">下载 %1$s</string>
     <string name="EmojiSets">Emoji 包</string>
     <string name="MyEmojiSets">我的 Emoji 包</string>
     <string name="InstalledEmojiSet">已安装</string>
     <string name="InstallingEmojiSet">正在安装…</string>
-    <string name="UpdateEmojiSet">更新 %s</string>
+    <string name="UpdateEmojiSet">更新 %1$s</string>
     <string name="EmojiSetHint">这只会影响您的 Emoji 外观，其他人会根据自己的设置看到它们。</string>
     <string name="CustomEmojiSetHint">从您的内部存储中导入和选择 Emoji 包。</string>
     <string name="AddEmojiSet">添加 Emoji 包</string>
@@ -153,7 +153,7 @@
     <string name="ClearRecentChatAlert">您确定要清除您的最近聊天吗？</string>
     <string name="CloudConfig">云设置</string>
     <string name="CloudConfigDesc">保存 N-设置 到 Telegram 云。</string>
-    <string name="CloudConfigSyncDate">最后同步：%s，云端：%s</string>
+    <string name="CloudConfigSyncDate">最后同步：%1$s，云端：%2$s</string>
     <string name="CloudConfigSyncDateNever">从未</string>
     <string name="CloudConfigSync">同步到云端</string>
     <string name="CloudConfigSyncShort">同步</string>

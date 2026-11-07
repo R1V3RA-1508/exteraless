@@ -6,7 +6,7 @@
     <string name="HidePhone">پنهان کردن شماره تلفن</string>
     <string name="DeleteAllFromSelf">حذف پیام‌های من</string>
     <string name="DeleteAllFromSelfAlert">هشدار! این کار **تمام پیام‌های شما** را در این گفتگو برای **همه** شرکت‌کنندگان حذف می‌کند.</string>
-    <string name="DeleteAllFromSelfAlertBefore">هشدار! این کار **تمام پیام‌های شما را قبل از %s** در این گفتگو برای **همه** شرکت‌کنندگان حذف می‌کند.</string>
+    <string name="DeleteAllFromSelfAlertBefore">هشدار! این کار **تمام پیام‌های شما را قبل از %1$s** در این گفتگو برای **همه** شرکت‌کنندگان حذف می‌کند.</string>
     <string name="DeleteAllFromSelfBefore">قبل از...</string>
     <string name="DeleteAllFromSelfAdmin">با دسترسی مدیر</string>
     <string name="DeleteAllFromSelfDone">تمام پیام‌های شما حذف شدند.</string>
@@ -130,12 +130,12 @@
     <string name="PasscodePanicCodeAbout">در صورت بروز مشکل، از کد اضطراری برای خروج از حساب‌ها استفاده کنید.</string>
     <string name="RestrictionReason">دلیل محدودیت</string>
     <string name="InvalidCustomEmojiTypeface">فایل فونت نامعتبر است.</string>
-    <string name="DownloadEmojiSet">دانلود %s</string>
+    <string name="DownloadEmojiSet">دانلود %1$s</string>
     <string name="EmojiSets">بسته‌های اموجی</string>
     <string name="MyEmojiSets">بسته‌های اموجی من</string>
     <string name="InstalledEmojiSet">نصب شده</string>
     <string name="InstallingEmojiSet">در حال نصب...</string>
-    <string name="UpdateEmojiSet">به‌روزرسانی %s</string>
+    <string name="UpdateEmojiSet">به‌روزرسانی %1$s</string>
     <string name="EmojiSetHint">این فقط ظاهر اموجی‌ها را برای شما تغییر می‌دهد. دیگران آن‌ها را بر اساس تنظیمات خودشان می‌بینند.</string>
     <string name="CustomEmojiSetHint">بسته‌های اموجی را از حافظه داخلی خود وارد و انتخاب کنید.</string>
     <string name="AddEmojiSet">افزودن بسته اموجی</string>
@@ -152,7 +152,7 @@
     <string name="ClearRecentChatAlert">آیا می‌خواهید گفتگوهای اخیر خود را پاک کنید؟</string>
     <string name="CloudConfig">تنظیمات ابری</string>
     <string name="CloudConfigDesc">ذخیره تنظیمات ناگرام</string>
-    <string name="CloudConfigSyncDate">آخرین همگام‌سازی: %s، ابر: %s</string>
+    <string name="CloudConfigSyncDate">آخرین همگام‌سازی: %1$s، ابر: %2$s</string>
     <string name="CloudConfigSyncDateNever">هرگز</string>
     <string name="CloudConfigSync">همگام‌سازی با ابر</string>
     <string name="CloudConfigSyncShort">همگام‌سازی</string>

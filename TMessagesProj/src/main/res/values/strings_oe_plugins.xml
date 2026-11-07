@@ -21,7 +21,7 @@
     <string name="PluginsEnterValue">Enter value</string>
     <string name="PluginsResetSettings">Reset settings</string>
     <string name="PluginsResetSettingsInfo">All saved settings of **%1$s** will be reset. The plugin itself stays installed.</string>
-    <string name="PluginsInstallReadError">Couldn\'t read the selected file.</string>
+    <string name="PluginsInstallReadError">Couldn't read the selected file.</string>
     <string name="PluginsCrashedTitle">Plugin crashed</string>
     <string name="PluginsCrashedMessage">Plugin %1$s was disabled after a crash.</string>
     <string name="PluginsAutoSafeMode">The app crashed several times in a row right after launch, so plugins were turned off (safe mode). When you are ready, turn safe mode off in Plugins.</string>
@@ -39,7 +39,7 @@
     <string name="PluginDisable">Disable</string>
     <string name="PluginsInstallTitle">Install plugin</string>
     <string name="PluginsInstallAction">Install</string>
-    <string name="PluginsInstallUnknownConfirm">This file was not recognised as a plugin. Installed anyway, it gets everything: messages, files, network, the app\'s code.</string>
+    <string name="PluginsInstallUnknownConfirm">This file was not recognised as a plugin. Installed anyway, it gets everything: messages, files, network, the app's code.</string>
     <string name="PluginsInstalled">%1$s installed.</string>
     <string name="PluginsExportLogs">Export Plugin Logs</string>
     <string name="PluginsClearLogs">Clear Plugin Logs</string>
@@ -86,11 +86,11 @@
     <string name="PluginPermIntents">Open links as you</string>
     <string name="PluginPermIntentsInfo">Links you tap and files you open.</string>
     <string name="PluginPermSettings">Change app settings</string>
-    <string name="PluginPermSettingsInfo">Turns the app\'s own options on and off.</string>
+    <string name="PluginPermSettingsInfo">Turns the app's own options on and off.</string>
     <string name="PluginPermNative">Load native libraries</string>
     <string name="PluginPermNativeInfo">Runs machine code inside the app; the checks above no longer hold.</string>
     <string name="PluginPermHooks">Hook / rewrite the app</string>
-    <string name="PluginPermHooksInfo">Rewrites the app\'s code as it runs; everything above becomes possible.</string>
+    <string name="PluginPermHooksInfo">Rewrites the app's code as it runs; everything above becomes possible.</string>
 
 
     <string name="PluginActivityHeader">Behaviour</string>
@@ -106,7 +106,7 @@
     <string name="PluginActivityProcess">Running programs</string>
     <string name="PluginActivityNative">Native code</string>
     <string name="PluginActivityReflection">Reaching for app internals</string>
-    <string name="PluginActivityIntrospection">Reading other code\'s state</string>
+    <string name="PluginActivityIntrospection">Reading other code's state</string>
     <string name="PluginActivityCode">Building code at runtime</string>
     <string name="PluginActivityOther">Other</string>
     <string name="PluginActivityClear">Clear log</string>
@@ -119,7 +119,7 @@
     <string name="PluginLevelGated">Limited</string>
     <string name="PluginLevelGatedInfo">You grant permissions one by one; the app enforces them.</string>
     <string name="PluginLevelTrusted">Trusted</string>
-    <string name="PluginLevelTrustedInfo">Unlocks hooks — rewriting the app\'s code. Nothing below can be enforced then.</string>
+    <string name="PluginLevelTrustedInfo">Unlocks hooks — rewriting the app's code. Nothing below can be enforced then.</string>
     <string name="PluginLevelIsolatedFooter">Where new plugins start. Raise it only if the plugin needs more.</string>
     <string name="PluginLevelGatedFooter">Permissions below are yours to give and take back.</string>
     <string name="PluginLevelTrustedFooter">Hooks are on: the switches below can no longer be enforced.</string>
@@ -132,20 +132,20 @@
     <string name="PluginActivityDidReach">Reached %1$s</string>
     <string name="PluginActivityDidProcess">Tried to run a program</string>
     <string name="PluginActivityDidNative">Native code: %1$s</string>
-    <string name="PluginActivityDidIntrospect">Tried to read another module\'s state</string>
+    <string name="PluginActivityDidIntrospect">Tried to read another module's state</string>
     <string name="PluginActivityDidCode">Built code at runtime</string>
     <string name="PluginActivityRepeat">× %1$d</string>
     <string name="PluginLevelTrustedFooterIdle">Unlocks the last switch — hooks. While it is off, the rest is enforced.</string>
     <string name="PluginDeniedNotice">%1$s tried to do something it is not allowed to: %2$s</string>
     <string name="PluginDeniedOpen">Permissions</string>
-    <string name="PluginsInstallScanned">We analysed the plugin\'s code and found what it may use. Tick what it is allowed to do — the rest stays blocked.</string>
+    <string name="PluginsInstallScanned">We analysed the plugin's code and found what it may use. Tick what it is allowed to do — the rest stays blocked.</string>
     <string name="PluginsInstallNothingFound">Nothing beyond its own menus and settings was found in the source.</string>
     <string name="PluginsObfuscated">The code is obfuscated</string>
     <string name="PluginsInstallObfuscatedChoice">The code could not be read, so every permission is listed. Tick only what you are sure this plugin needs.</string>
     <string name="PluginsObfuscatedInfo">Names and strings were deliberately made unreadable, so the analysis above proves nothing: the plugin can do things it does not appear to. Install it only if you trust the author.</string>
     <string name="PluginsObfuscatedEvidence">Signs: %1$s</string>
-    <string name="PluginsInstallDenied">The plugin stopped on its first run: it needs \"%1$s\" and does not have it. Tick that permission on the plugin\'s screen and reload it.</string>
-    <string name="PluginsInstallDeniedGeneric">The plugin stopped on its first run: it tried to do something it is not allowed to. Its permissions are on the plugin\'s screen.</string>
+    <string name="PluginsInstallDenied">The plugin stopped on its first run: it needs \"%1$s\" and does not have it. Tick that permission on the plugin's screen and reload it.</string>
+    <string name="PluginsInstallDeniedGeneric">The plugin stopped on its first run: it tried to do something it is not allowed to. Its permissions are on the plugin's screen.</string>
     <string name="PluginsMenuInfo">About this plugin</string>
     <string name="PluginPermShortMessagesRead">Read messages</string>
     <string name="PluginPermShortMessagesSend">Interact with messages</string>
@@ -176,14 +176,14 @@ Source:
 ```python
 %3$s
 ```</string>
-    <string name="PluginWatchdogMute">Don\'t remind</string>
+    <string name="PluginWatchdogMute">Don't remind</string>
     <string name="PluginWatchdogMuted">%1$s will no longer warn about slowdowns. You can bring the warnings back in the plugin settings.</string>
     <string name="PluginWatchdogWarnings">Slowdown warnings</string>
     <string name="PluginWatchdogWarningsInfo">Warn when this plugin holds the main thread for too long or stops responding.</string>
     <string name="PluginDeniedGrant">Grant</string>
-    <string name="PluginGrantedRestart">Permission granted to %1$s. Restart the plugin if it doesn\'t pick it up.</string>
+    <string name="PluginGrantedRestart">Permission granted to %1$s. Restart the plugin if it doesn't pick it up.</string>
     <string name="PluginGrantedRestartAction">Restart</string>
-    <string name="PluginGrantTrustedConfirm">%1$s will get the Trusted access level: with it, the plugin can change the app\'s code. Grant?</string>
+    <string name="PluginGrantTrustedConfirm">%1$s will get the Trusted access level: with it, the plugin can change the app's code. Grant?</string>
     <string name="PluginsAiReviewToolsPrompt">Review this Telegram client plugin for anything that could harm the user: hidden data collection, sending messages or files to third parties, credential theft, code downloaded at runtime.\n\nWrite the answer in %2$s.\n\nPlugin: %1$s\n\nThe source is not included here — read it with the tools. Files: %3$s.\nEmbedded data (base64 strings and binary files): %4$s\n\nRead every file to the end with read_source, a range at a time, and decode every embedded blob with decode_base64 to see what it really contains: code, DEX, native libraries, URLs, keys. Base the verdict only on what you actually read, and say which parts you could not inspect.</string>
     <string name="PluginsSourceTrusted">Trusted source</string>
     <string name="PluginUnconsentedTitle">Plugin added without permissions</string>

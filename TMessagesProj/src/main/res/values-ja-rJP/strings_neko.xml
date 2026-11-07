@@ -6,7 +6,7 @@
     <string name="HidePhone">電話番号を非表示</string>
     <string name="DeleteAllFromSelf">自分のメッセージを削除</string>
     <string name="DeleteAllFromSelfAlert">警告！この操作を実行すると、この会話の**全員**に対して、**あなたが送信したすべてのメッセージ**が削除されます。</string>
-    <string name="DeleteAllFromSelfAlertBefore">警告！この操作を実行すると、この会話の**全員**に対して、**%s以前にあなたが送信したすべてのメッセージ**が削除されます。</string>
+    <string name="DeleteAllFromSelfAlertBefore">警告！この操作を実行すると、この会話の**全員**に対して、**%1$s以前にあなたが送信したすべてのメッセージ**が削除されます。</string>
     <string name="DeleteAllFromSelfBefore">…以前</string>
     <string name="DeleteAllFromSelfAdmin">管理者権限を使用</string>
     <string name="DeleteAllFromSelfDone">すべてのメッセージが削除されました</string>
@@ -130,12 +130,12 @@
     <string name="PasscodePanicCodeAbout">問題が発生した場合、緊急コードを使用してアカウントからログアウトします。</string>
     <string name="RestrictionReason">制限の理由</string>
     <string name="InvalidCustomEmojiTypeface">無効なフォントファイルです。</string>
-    <string name="DownloadEmojiSet">%sをダウンロード</string>
+    <string name="DownloadEmojiSet">%1$sをダウンロード</string>
     <string name="EmojiSets">絵文字セット</string>
     <string name="MyEmojiSets">マイ絵文字セット</string>
     <string name="InstalledEmojiSet">インストール済み</string>
     <string name="InstallingEmojiSet">インストール中…</string>
-    <string name="UpdateEmojiSet">%sを更新</string>
+    <string name="UpdateEmojiSet">%1$sを更新</string>
     <string name="EmojiSetHint">これは絵文字の表示のみに影響します。他のユーザーは自分の設定に従って絵文字が表示されます。</string>
     <string name="CustomEmojiSetHint">内部ストレージから絵文字セットをインポートして選択します。</string>
     <string name="AddEmojiSet">絵文字セットを追加</string>

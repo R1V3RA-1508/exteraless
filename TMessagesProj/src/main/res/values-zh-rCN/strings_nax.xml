@@ -74,7 +74,7 @@
     <string name="ShadowBanChannelAdded">已添加到**频道过滤器**。</string>
     <string name="ShadowBanChannelRemoved">已从**频道过滤器**中移除。</string>
     <string name="botCommandConfirmTitle">确认发送</string>
-    <string name="botCommandConfirmText">您确定要发送此指令吗？\n\n%s</string>
+    <string name="botCommandConfirmText">您确定要发送此指令吗？\n\n%1$s</string>
     <string name="MessageSavingSaveMedia">保存媒体</string>
     <string name="MessageSavingSaveMediaHint">点击查看更多选项。</string>
     <string name="MessageSavingSaveMediaInPrivateChats">私聊</string>
@@ -268,7 +268,7 @@
     <string name="BlockedChannels">已屏蔽的频道</string>
     <string name="BlockedChannelsCount_one">%1$d 个被屏蔽的频道</string>
     <string name="BlockedChannelsCount_other">%1$d 个被屏蔽的频道</string>
-    <string name="BlockedChannelsInfo">您可以在群组中隐藏来自已屏蔽频道的消息。 %s</string>
+    <string name="BlockedChannelsInfo">您可以在群组中隐藏来自已屏蔽频道的消息。 %1$s</string>
     <string name="ChannelBlocked">已屏蔽该频道。</string>
     <string name="ChannelUnblocked">已取消屏蔽该频道。</string>
     <string name="BlockedChannelsEmpty">暂无已屏蔽的频道</string>

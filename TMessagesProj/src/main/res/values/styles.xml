@@ -192,7 +192,7 @@
 
     <style name="Theme.TMessages.AppWidget.Preview2">
         <item name="widgetPreviewTitle">Rex</item>
-        <item name="widgetPreviewContent">It\'s morning in Tokyo &#128526;</item>
+        <item name="widgetPreviewContent">It's morning in Tokyo &#128526;</item>
         <item name="widgetPreviewTime">12:00</item>
         <item name="widgetPreviewDot">2</item>
         <item name="widgetPreviewImage">@drawable/widget_avatar_7</item>

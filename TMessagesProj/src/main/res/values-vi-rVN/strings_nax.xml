@@ -66,7 +66,7 @@
     <string name="ShadowBanChannelAdded">Đã thêm vào **bộ lọc kênh**.</string>
     <string name="ShadowBanChannelRemoved">Đã xóa khỏi **bộ lọc kênh**.</string>
     <string name="botCommandConfirmTitle">Gửi lệnh</string>
-    <string name="botCommandConfirmText">Bạn có muốn gửi lệnh này không?\n\n%s</string>
+    <string name="botCommandConfirmText">Bạn có muốn gửi lệnh này không?\n\n%1$s</string>
     <string name="MessageSavingSaveMedia">Lưu phương tiện</string>
     <string name="MessageSavingSaveMediaHint">Nhấn để xem thêm.</string>
     <string name="MessageSavingSaveMediaInPrivateChats">… trong Trò chuyện riêng tư</string>
@@ -250,7 +250,7 @@
     <string name="BlockedChannels">Các kênh đã chặn</string>
     <string name="BlockedChannelsCount_one">%1$d kênh đã chặn</string>
     <string name="BlockedChannelsCount_other">%1$d kênh đã chặn</string>
-    <string name="BlockedChannelsInfo">Bạn có thể ẩn tin nhắn từ các kênh bị chặn trong nhóm. %s</string>
+    <string name="BlockedChannelsInfo">Bạn có thể ẩn tin nhắn từ các kênh bị chặn trong nhóm. %1$s</string>
     <string name="ChannelBlocked">Đã chặn kênh.</string>
     <string name="ChannelUnblocked">Đã bỏ chặn kênh.</string>
     <string name="BlockedChannelsEmpty">Chưa có kênh nào bị chặn</string>

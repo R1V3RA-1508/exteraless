@@ -46,7 +46,7 @@
     <string name="PillStackWeatherSelectLocation">Select on Map</string>
     <string name="PillStackWeatherSettingsInfo">The pill shows the weather at the selected point. Data is refreshed no more than once every 15 minutes.</string>
     <string name="PillStackWeatherPermissionGrant">Grant Location Permission</string>
-    <string name="PillStackWeatherPermissionInfo">Without access to your location, the weather pill can\'t determine where you are. You can pick a point on the map instead.</string>
+    <string name="PillStackWeatherPermissionInfo">Without access to your location, the weather pill can't determine where you are. You can pick a point on the map instead.</string>
     <string name="PillStackWeatherServicesEnable">Enable Location Services</string>
     <string name="PillStackRateFrom">From</string>
     <string name="PillStackRateTo">To</string>

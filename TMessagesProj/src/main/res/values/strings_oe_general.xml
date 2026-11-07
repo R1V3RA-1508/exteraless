@@ -11,7 +11,7 @@
     <string name="OEGeneralTranslationTarget">Target Language</string>
     <string name="OEGeneralTranslationTargetDefault">App Language</string>
     <string name="OEGeneralDoNotTranslate">Do Not Translate</string>
-    <string name="OEGeneralTranslateInfo">The \'Translate\' button will appear in the message context menu.</string>
+    <string name="OEGeneralTranslateInfo">The 'Translate' button will appear in the message context menu.</string>
 
     <!-- App Navigation -->
     <string name="OEBottomNavigationModeFloating">Floating</string>
@@ -115,7 +115,7 @@
     <string name="AskBeforeOpeningStoryGhost">View in ghost mode</string>
     <string name="AskBeforeOpeningStoryNormal">View</string>
     <string name="GhostScheduledSend">Send as scheduled</string>
-    <string name="GhostScheduledSendNotice">While your online status is hidden, messages are sent as scheduled ones 12 seconds later, so you don\'t appear online.</string>
+    <string name="GhostScheduledSendNotice">While your online status is hidden, messages are sent as scheduled ones 12 seconds later, so you don't appear online.</string>
     <string name="CloudConfigIncludeApiKeys">Save AI keys</string>
     <string name="CloudConfigIncludeApiKeysDesc">API keys of AI and translation services are uploaded to the cloud too.</string>
     <string name="OECloudTitle">Cloud</string>
@@ -146,13 +146,13 @@
     <string name="OEAyuDeletedHeader">Deleted messages in chat</string>
     <string name="OEAyuOtherHeader">Other</string>
     <string name="OEAyuDangerHeader">Danger zone</string>
-    <string name="OEAyuSaveReadDateInfo">Remembers when your messages were read and listened to. Shown in the message menu when Telegram doesn\'t provide the time.</string>
-    <string name="OEAyuPlayedTodayAt">listened at %s</string>
-    <string name="OEAyuPlayedYesterdayAt">listened yesterday at %s</string>
+    <string name="OEAyuSaveReadDateInfo">Remembers when your messages were read and listened to. Shown in the message menu when Telegram doesn't provide the time.</string>
+    <string name="OEAyuPlayedTodayAt">listened at %1$s</string>
+    <string name="OEAyuPlayedYesterdayAt">listened yesterday at %1$s</string>
     <string name="OEAyuPlayedDateTimeAt">listened %1$s at %2$s</string>
     <string name="OEAyuForwardLoadingMedia">Loading media</string>
     <string name="OEAyuForwardLoadingCount">Files: %1$d of %2$d</string>
-    <string name="OEAyuForwardLoadFailed">Couldn\'t load media for forwarding</string>
+    <string name="OEAyuForwardLoadFailed">Couldn't load media for forwarding</string>
     <string name="OEUpdateAvailable">Update available: %1$s</string>
     <string name="OEUpdateInstall">Update</string>
     <string name="OEUpdateInstallSize">Update (%1$s)</string>
@@ -162,7 +162,7 @@
     <string name="OEUpdateDownloadFailed">Could not download the update</string>
     <string name="OEUpdateCheckFailed">Could not check for updates</string>
     <string name="OEUserLookupTitle">Starting @usinfobot</string>
-    <string name="OEUserLookupStart">Finding a user by ID requires **@usinfobot**. It only works once started, so we\'ll send it /start. A chat with it will appear in your chat list.</string>
+    <string name="OEUserLookupStart">Finding a user by ID requires **@usinfobot**. It only works once started, so we'll send it /start. A chat with it will appear in your chat list.</string>
     <string name="OEUserLookupStartButton">Start</string>
     <string name="OEUserLookupNotFound">User %1$d not found</string>
     <string name="OEUpdateTitle">Update available</string>
@@ -173,9 +173,9 @@
     <string name="OEAyuDatabaseImport">Import database</string>
     <string name="OEAyuDatabaseImportInfo">Deleted and edited messages from this file will be added to the ones already saved. Exports from exteraless and AyuGram are supported. Media from another app may be unavailable.</string>
     <string name="OEAyuDatabaseImportDone">Messages added: %1$d</string>
-    <string name="OEAyuDatabaseImportFailed">Couldn\'t import this file</string>
+    <string name="OEAyuDatabaseImportFailed">Couldn't import this file</string>
     <string name="OEAyuRegexReversed">Reversed</string>
-    <string name="OEAyuRegexReversedInfo">Hide messages that don\'t match the expression</string>
+    <string name="OEAyuRegexReversedInfo">Hide messages that don't match the expression</string>
     <string name="OEUpdaterChecking">Checking for updates…</string>
     <string name="OEUpdaterLatest">You have the latest version</string>
     <string name="OEUpdaterAvailable">Version %1$s is available</string>

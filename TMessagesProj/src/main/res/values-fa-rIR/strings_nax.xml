@@ -74,7 +74,7 @@
     <string name="ShadowBanChannelAdded">به **فیلترهای کانال** اضافه شد.</string>
     <string name="ShadowBanChannelRemoved">از **فیلترهای کانال** حذف شد.</string>
     <string name="botCommandConfirmTitle">ارسال دستور</string>
-    <string name="botCommandConfirmText">آیا می‌خواهید این دستور را ارسال کنید؟\n\n%s</string>
+    <string name="botCommandConfirmText">آیا می‌خواهید این دستور را ارسال کنید؟\n\n%1$s</string>
     <string name="MessageSavingSaveMedia">ذخیره رسانه‌ها</string>
     <string name="MessageSavingSaveMediaHint">برای اطلاعات بیشتر کلیک کنید.</string>
     <string name="MessageSavingSaveMediaInPrivateChats">... در گفتگوهای خصوصی</string>
@@ -262,7 +262,7 @@
     <string name="BlockedChannels">کانال‌های مسدود شده</string>
     <string name="BlockedChannelsCount_one">%1$d کانال مسدود شده</string>
     <string name="BlockedChannelsCount_other">%1$d کانال‌های مسدود شده</string>
-    <string name="BlockedChannelsInfo">می‌توانید پیام‌های کانال‌های مسدود شده در گروه‌ها را پنهان کنید. %s</string>
+    <string name="BlockedChannelsInfo">می‌توانید پیام‌های کانال‌های مسدود شده در گروه‌ها را پنهان کنید. %1$s</string>
     <string name="ChannelBlocked">کانال مسدود شد.</string>
     <string name="ChannelUnblocked">کانال رفع انسداد شد.</string>
     <string name="BlockedChannelsEmpty">هنوز هیچ کانال مسدودشده‌ای وجود ندارد</string>

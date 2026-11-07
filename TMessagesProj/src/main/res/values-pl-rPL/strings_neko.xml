@@ -6,7 +6,7 @@
     <string name="HidePhone">Ukryj numer telefonu</string>
     <string name="DeleteAllFromSelf">Usuń moje wiadomości</string>
     <string name="DeleteAllFromSelfAlert">Uwaga! Spowoduje to **usunięcie wszystkich wiadomości od Ciebie** na tym czacie dla **wszystkich** uczestników.</string>
-    <string name="DeleteAllFromSelfAlertBefore">Uwaga! Spowoduje to **usunięcie wszystkich wiadomości od Ciebie przed %s** w tym czacie dla **wszystkich** uczestników.</string>
+    <string name="DeleteAllFromSelfAlertBefore">Uwaga! Spowoduje to **usunięcie wszystkich wiadomości od Ciebie przed %1$s** w tym czacie dla **wszystkich** uczestników.</string>
     <string name="DeleteAllFromSelfBefore">Wcześniej...</string>
     <string name="DeleteAllFromSelfAdmin">Z uprawnieniami administratora</string>
     <string name="DeleteAllFromSelfDone">Wszystkie twoje wiadomości zostały usunięte</string>
@@ -130,12 +130,12 @@
     <string name="PasscodePanicCodeAbout">Użyj kodu awaryjnego, aby wylogować konta, jeśli coś pójdzie nie tak.</string>
     <string name="RestrictionReason">Powód ograniczenia</string>
     <string name="InvalidCustomEmojiTypeface">Nieprawidłowy plik czcionki.</string>
-    <string name="DownloadEmojiSet">Pobierz %s</string>
+    <string name="DownloadEmojiSet">Pobierz %1$s</string>
     <string name="EmojiSets">Zestawy emoji</string>
     <string name="MyEmojiSets">Moje zestawy emoji</string>
     <string name="InstalledEmojiSet">Zainstalowane</string>
     <string name="InstallingEmojiSet">Instaluję…</string>
-    <string name="UpdateEmojiSet">Zaktualizuj %s</string>
+    <string name="UpdateEmojiSet">Zaktualizuj %1$s</string>
     <string name="EmojiSetHint">Dotyczy to tylko Twojego wyglądu emoji. Inni widzą je na podstawie swoich preferencji.</string>
     <string name="CustomEmojiSetHint">Importuj i wybieraj zestawy emoji z pamięci wewnętrznej.</string>
     <string name="AddEmojiSet">Dodaj zestaw emoji</string>
@@ -152,7 +152,7 @@
     <string name="ClearRecentChatAlert">Czy chcesz wyczyścić ostatnie czaty?</string>
     <string name="CloudConfig">Ustawienia chmury</string>
     <string name="CloudConfigDesc">Zapisz ustawienia N w chmurze Telegrama.</string>
-    <string name="CloudConfigSyncDate">Ostatnia synchronizacja: %s, chmura: %s</string>
+    <string name="CloudConfigSyncDate">Ostatnia synchronizacja: %1$s, chmura: %2$s</string>
     <string name="CloudConfigSyncDateNever">nigdy</string>
     <string name="CloudConfigSync">Synchronizuj z chmurą</string>
     <string name="CloudConfigSyncShort">Synchronizuj</string>

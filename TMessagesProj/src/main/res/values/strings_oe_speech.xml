@@ -9,7 +9,7 @@
     <string name="VoskModelSelected">Active</string>
     <string name="VoskModelNotInstalled">Download a language model first</string>
     <string name="VoskDownloadBusy">Another model is downloading</string>
-    <string name="VoskDownloadFailed">Couldn\'t download the model</string>
+    <string name="VoskDownloadFailed">Couldn't download the model</string>
     <string name="VoskDeleteModelConfirm">Delete this language model?</string>
     <string name="VoskModelsShort">Offline recognition models</string>
     <string name="TranscribeProviderVosk">Vosk (offline)</string>

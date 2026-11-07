@@ -74,7 +74,7 @@
     <string name="ShadowBanChannelAdded">Añadido a **filtros de canales**.</string>
     <string name="ShadowBanChannelRemoved">Eliminado de **filtros de canales**.</string>
     <string name="botCommandConfirmTitle">Enviar comando</string>
-    <string name="botCommandConfirmText">¿Quieres enviar este comando?\n\n%s</string>
+    <string name="botCommandConfirmText">¿Quieres enviar este comando?\n\n%1$s</string>
     <string name="MessageSavingSaveMedia">Guardar Multimedia</string>
     <string name="MessageSavingSaveMediaHint">Haga clic para más información.</string>
     <string name="MessageSavingSaveMediaInPrivateChats">… en chats privados</string>
@@ -268,7 +268,7 @@
     <string name="BlockedChannels">Canales Bloqueados</string>
     <string name="BlockedChannelsCount_one">%1$d canal bloqueado</string>
     <string name="BlockedChannelsCount_other">%1$d canales bloqueados</string>
-    <string name="BlockedChannelsInfo">Puedes ocultar los mensajes de canales bloqueados en los grupos. %s</string>
+    <string name="BlockedChannelsInfo">Puedes ocultar los mensajes de canales bloqueados en los grupos. %1$s</string>
     <string name="ChannelBlocked">Canal bloqueado.</string>
     <string name="ChannelUnblocked">Canal desbloqueado.</string>
     <string name="BlockedChannelsEmpty">Aún no hay canales bloqueados</string>

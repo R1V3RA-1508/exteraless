@@ -6,7 +6,7 @@
     <string name="HidePhone">Sembunyikan Nomor Telepon</string>
     <string name="DeleteAllFromSelf">Hapus Pesan Saya</string>
     <string name="DeleteAllFromSelfAlert">Peringatan! Ini akan **menghapus semua pesan dari Anda** di obrolan ini untuk **semua** peserta.</string>
-    <string name="DeleteAllFromSelfAlertBefore">Peringatan! Ini akan **menghapus semua pesan dari Anda sebelum %s** di obrolan ini untuk **semua** peserta.</string>
+    <string name="DeleteAllFromSelfAlertBefore">Peringatan! Ini akan **menghapus semua pesan dari Anda sebelum %1$s** di obrolan ini untuk **semua** peserta.</string>
     <string name="DeleteAllFromSelfBefore">Sebelum...</string>
     <string name="DeleteAllFromSelfAdmin">Dengan hak admin</string>
     <string name="DeleteAllFromSelfDone">Semua pesan Anda telah dihapus</string>
@@ -130,12 +130,12 @@
     <string name="PasscodePanicCodeAbout">Gunakan kode panik untuk keluar dari akun-akun jika terjadi masalah.</string>
     <string name="RestrictionReason">Alasan pembatasan</string>
     <string name="InvalidCustomEmojiTypeface">Berkas font tidak sah.</string>
-    <string name="DownloadEmojiSet">Unduh %s</string>
+    <string name="DownloadEmojiSet">Unduh %1$s</string>
     <string name="EmojiSets">Kumpulan Emoji</string>
     <string name="MyEmojiSets">Kumpulan emoji Saya</string>
     <string name="InstalledEmojiSet">Terpasang</string>
     <string name="InstallingEmojiSet">Memasang…</string>
-    <string name="UpdateEmojiSet">Pembaruan %s</string>
+    <string name="UpdateEmojiSet">Pembaruan %1$s</string>
     <string name="EmojiSetHint">Hal ini hanya memengaruhi tampilan emoji bagi Anda. Orang lain melihatnya sesuai dengan preferensi mereka.</string>
     <string name="CustomEmojiSetHint">Impor dan pilih kumpulan emoji dari penyimpanan internal.</string>
     <string name="AddEmojiSet">Tambah kumpulan emoji</string>
@@ -153,7 +153,7 @@
     <string name="ClearRecentChatAlert">Apakah Anda ingin membersihkan obrolan terbaru Anda?</string>
     <string name="CloudConfig">Pengaturan Cloud</string>
     <string name="CloudConfigDesc">Simpan Pengaturan-N Anda ke cloud Telegram.</string>
-    <string name="CloudConfigSyncDate">Terakhir disinkronkan: %s, cloud: %s</string>
+    <string name="CloudConfigSyncDate">Terakhir disinkronkan: %1$s, cloud: %2$s</string>
     <string name="CloudConfigSyncDateNever">tidak pernah</string>
     <string name="CloudConfigSync">Sinkronkan ke cloud</string>
     <string name="CloudConfigSyncShort">Sinkron</string>

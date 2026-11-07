@@ -76,7 +76,7 @@
     <string name="ShadowBanChannelAdded">Добавлено в **фильтры каналов**.</string>
     <string name="ShadowBanChannelRemoved">Удалено из **фильтров каналов**.</string>
     <string name="botCommandConfirmTitle">Отправить команду</string>
-    <string name="botCommandConfirmText">Вы хотите отправить эту команду?\n\n%s</string>
+    <string name="botCommandConfirmText">Вы хотите отправить эту команду?\n\n%1$s</string>
     <string name="MessageSavingSaveMedia">Сохранять медиа</string>
     <string name="MessageSavingSaveMediaHint">Нажмите, чтобы узнать больше.</string>
     <string name="MessageSavingSaveMediaInPrivateChats">… в личных чатах</string>
@@ -270,7 +270,7 @@
     <string name="BlockedChannels">Заблокированные каналы</string>
     <string name="BlockedChannelsCount_one">%1$d заблокированный канал</string>
     <string name="BlockedChannelsCount_other">%1$d заблокированных каналов</string>
-    <string name="BlockedChannelsInfo">Вы можете скрыть сообщения из заблокированных каналов в группах. %s</string>
+    <string name="BlockedChannelsInfo">Вы можете скрыть сообщения из заблокированных каналов в группах. %1$s</string>
     <string name="ChannelBlocked">Канал заблокирован.</string>
     <string name="ChannelUnblocked">Канал разблокирован.</string>
     <string name="BlockedChannelsEmpty">Заблокированных каналов пока нет</string>

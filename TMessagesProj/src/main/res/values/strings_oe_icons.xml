@@ -26,8 +26,8 @@
     <string name="IconPackErrorArchiveTooLarge">Icon pack is too large.</string>
     <string name="IconPackErrorFileTooLarge">One of the icon files is too large.</string>
     <string name="IconPackErrorCompressionRatioTooHigh">Icon pack archive is compressed too aggressively.</string>
-    <string name="IconPackErrorStorage">Couldn\'t save icon pack.</string>
-    <string name="IconPackErrorUnknown">Couldn\'t install icon pack.</string>
+    <string name="IconPackErrorStorage">Couldn't save icon pack.</string>
+    <string name="IconPackErrorUnknown">Couldn't install icon pack.</string>
 
     <!-- Точечная замена иконок -->
     <string name="IconPackCreate">Create Icon Pack</string>
@@ -39,7 +39,7 @@
     <string name="IconPickerOriginal">Original</string>
     <string name="IconPickerCurrent">Current</string>
     <string name="IconPickerSelectImage">Select Image</string>
-    <string name="IconPickerClipboardEmpty">There\'s no image in the clipboard.</string>
+    <string name="IconPickerClipboardEmpty">There's no image in the clipboard.</string>
     <string name="IconPackPriorityUp">Higher priority</string>
     <string name="IconPackPriorityDown">Lower priority</string>
     <string name="IconPackAuthor">Author</string>
@@ -47,7 +47,7 @@
     <string name="IconPackNoAuthor">Unknown</string>
     <string name="IconPackVersion">Version</string>
     <string name="IconPackEditInfo">Edit Pack Info</string>
-    <string name="IconPackNameCannotBeEmpty">Pack name can\'t be empty.</string>
+    <string name="IconPackNameCannotBeEmpty">Pack name can't be empty.</string>
     <string name="IconPackRename">Rename</string>
     <string name="IconPackIconsCount">%1$d icons</string>
 </resources>

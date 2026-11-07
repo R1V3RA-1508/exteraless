@@ -127,8 +127,8 @@
     <string name="OEAyuOtherHeader">أخرى</string>
     <string name="OEAyuDangerHeader">منطقة الخطر</string>
     <string name="OEAyuSaveReadDateInfo">يتذكر متى قُرئت رسائلك واستُمع إليها. يظهر في قائمة الرسالة عندما لا يوفر Telegram الوقت.</string>
-    <string name="OEAyuPlayedTodayAt">استُمع إليها في %s</string>
-    <string name="OEAyuPlayedYesterdayAt">استُمع إليها أمس في %s</string>
+    <string name="OEAyuPlayedTodayAt">استُمع إليها في %1$s</string>
+    <string name="OEAyuPlayedYesterdayAt">استُمع إليها أمس في %1$s</string>
     <string name="OEAyuPlayedDateTimeAt">استُمع إليها %1$s في %2$s</string>
     <string name="OEAyuForwardLoadingMedia">جارٍ تحميل الوسائط</string>
     <string name="OEAyuForwardLoadingCount">الملفات: %1$d من %2$d</string>

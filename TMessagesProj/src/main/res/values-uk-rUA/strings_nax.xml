@@ -26,7 +26,7 @@
     <string name="LlmSystemPromptNotice">Визначте роль і поведінку AI.\n\nЦей промпт задає тон, індивідуальність і обмеження для AI. Подумайте про те, яким типом помічника має бути AI.</string>
     <string name="LlmUserPrompt">Користувацький Промпт</string>
     <string name="LlmUserPromptHint">Перекласти @text на @toLang.</string>
-    <string name="LlmUserPromptNotice">Використовуйте @text як заповнювач для оригінального повідомлення та @toLang для мови перекладу (необов\'язково).\n\nЯкщо залишити це поле порожнім, використовуватиметься запит за замовчуванням.</string>
+    <string name="LlmUserPromptNotice">Використовуйте @text як заповнювач для оригінального повідомлення та @toLang для мови перекладу (необов'язково).\n\nЯкщо залишити це поле порожнім, використовуватиметься запит за замовчуванням.</string>
     <string name="LlmUseContext">Використовувати контекст</string>
     <string name="LlmUseContextNotice">Покращує якість перекладу за рахунок більшої кількості токенів.</string>
     <string name="LlmContextSize">Контекстні повідомлення</string>
@@ -74,7 +74,7 @@
     <string name="ShadowBanChannelAdded">Додано до **фільтрів каналів**.</string>
     <string name="ShadowBanChannelRemoved">Видалено з **фільтрів каналів**.</string>
     <string name="botCommandConfirmTitle">Надіслати команду</string>
-    <string name="botCommandConfirmText">Ви хочете відправити цю команду? \n\n%s</string>
+    <string name="botCommandConfirmText">Ви хочете відправити цю команду? \n\n%1$s</string>
     <string name="MessageSavingSaveMedia">Зберігати медіа</string>
     <string name="MessageSavingSaveMediaHint">Натисніть, щоб побачити більше.</string>
     <string name="MessageSavingSaveMediaInPrivateChats">… у приватних чатах</string>
@@ -99,7 +99,7 @@
     <string name="UseDeletedIcon">Показати значок замість \"видалено\"</string>
     <string name="UseEditedIcon">Показати значок замість \"відредаговано\"</string>
     <string name="SilentMessageByDefault">Надіслати повідомлення без звуку за замовчуванням</string>
-    <string name="FolderNameAsTitle">Використовувати ім\'я теки як заголовок</string>
+    <string name="FolderNameAsTitle">Використовувати ім'я теки як заголовок</string>
     <string name="SaveDeletedMessageForBotUser">Зберегти повідомлення бота</string>
     <string name="TranslatorKeepMarkdown">Зберігати розмітку</string>
     <string name="TranslatorOptions">Параметри</string>
@@ -164,7 +164,7 @@
     <string name="GeminiApiKeyDialog">Налаштуйте ключ API Gemini. Залишіть порожнім, щоб використовувати ключ із налаштувань перекладача.\n**Як отримати?**\n</string>
     <string name="GeminiNotSupport">Gemini не підтримується на цьому пристрої.</string>
     <string name="ReplyInPrivate">Відповісти в приватному чаті</string>
-    <string name="TranscribeProviderGeminiPrompt">Prompt (необов\'язково)</string>
+    <string name="TranscribeProviderGeminiPrompt">Prompt (необов'язково)</string>
     <string name="uploadBoost">Збільшення швидкості вивантаження</string>
     <string name="HideDividers">Приховати розділювачі</string>
     <string name="IconReplacements">Заміна іконок</string>
@@ -183,7 +183,7 @@
     <string name="DebugMenuForceForumTabs">Примусові вкладки у форумах</string>
     <string name="DebugMenuDoNotForceForumTabs">Не примусово вкладки у форумах</string>
     <string name="DebugMenuCleanAppUpdate">Очистити оновлення програми</string>
-    <string name="DebugMenuMakeMemoryDump">Зробити дамп пам\'яті</string>
+    <string name="DebugMenuMakeMemoryDump">Зробити дамп пам'яті</string>
     <string name="DebugMenuShowFrameMetrics">Показувати статистику кадрів</string>
     <string name="DebugMenuHideFrameMetrics">Приховати статистику кадрів</string>
     <string name="TranslateMessageLLM">Перекласти за допомогою ШІ</string>
@@ -237,7 +237,7 @@
     <string name="UsePersianCalendar">Перський календар</string>
     <string name="UsePersianCalendarInfo">Показувати дату у форматі Solar Hijri (перський календар)</string>
     <string name="DisplayPersianCalendarByLatin">Показувати перський календар латиницею</string>
-    <string name="TestBackendOn">Цей обліковий запис буде під\'єднано до тестового сервера.</string>
+    <string name="TestBackendOn">Цей обліковий запис буде під'єднано до тестового сервера.</string>
     <string name="TestBackendOff">Цей обліковий запис буде підключений до тестового сервера.</string>
     <string name="DidNotGetTheCodeBlameDurov">Якщо ви не отримали код на інший пристрій або ви не входили у Telegram на інших пристроях, будь ласка, скористайтеся офіційним клієнтом Telegram для отримання коду.\n\nTelegram **заблокував можливість входу через СМС** для сторонніх додатків. При вході через сторонні додатки користувачі можуть отримувати коди лише безпосередньо у Telegram.\n\nМи не можемо з цим нічого зробити, якщо у вас виникли будь-які складнощі зі входом, будь ласка, зверніться до служби підтримки Telegram.</string>
     <string name="QRLoginMessage">Для входу проскануйте QR-код з іншого пристрою.</string>
@@ -262,7 +262,7 @@
     <string name="BlockedChannels">Заблоковані канали</string>
     <string name="BlockedChannelsCount_one">%1$d заблокований канал</string>
     <string name="BlockedChannelsCount_other">%1$d заблокованих каналів</string>
-    <string name="BlockedChannelsInfo">Ви можете приховувати повідомлення із заблокованих каналів у групах. %s</string>
+    <string name="BlockedChannelsInfo">Ви можете приховувати повідомлення із заблокованих каналів у групах. %1$s</string>
     <string name="ChannelBlocked">Канал заблоковано.</string>
     <string name="ChannelUnblocked">Канал розблоковано.</string>
     <string name="BlockedChannelsEmpty">Поки що немає заблокованих каналів</string>
@@ -302,7 +302,7 @@
     <string name="ApiKeyNotSet">Ключ API не налаштовано.</string>
     <string name="SaveLocalLastSeen">Зберегти дату останнього перегляду</string>
     <string name="CopyVideoFrame">Копіювати кадр</string>
-    <string name="SetLocalName">Встановити локальне ім\'я</string>
+    <string name="SetLocalName">Встановити локальне ім'я</string>
     <string name="DeleteChatForBothSides">Використовувати «Також видалити для» за замовчуванням</string>
     <string name="BackAnimationStyle">Анімація навігації</string>
     <string name="BackAnimationClassic">Класична</string>

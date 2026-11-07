@@ -6,7 +6,7 @@
     <string name="HidePhone">Скрыть номер телефона</string>
     <string name="DeleteAllFromSelf">Удалить мои сообщения</string>
     <string name="DeleteAllFromSelfAlert">Внимание! Это **удалит все ваши сообщения** в этом чате для **всех**.</string>
-    <string name="DeleteAllFromSelfAlertBefore">Внимание! Это **удалит все ваши сообщения до %s** в этом чате для **всех**.</string>
+    <string name="DeleteAllFromSelfAlertBefore">Внимание! Это **удалит все ваши сообщения до %1$s** в этом чате для **всех**.</string>
     <string name="DeleteAllFromSelfBefore">До...</string>
     <string name="DeleteAllFromSelfAdmin">С правами администратора</string>
     <string name="DeleteAllFromSelfDone">Все ваши сообщения удалены</string>
@@ -130,12 +130,12 @@
     <string name="PasscodePanicCodeAbout">Используйте экстренный пароль для выхода из аккаунтов, если что-то пойдёт не так.</string>
     <string name="RestrictionReason">Причина ограничения</string>
     <string name="InvalidCustomEmojiTypeface">Недопустимый файл шрифта.</string>
-    <string name="DownloadEmojiSet">Загрузка %s</string>
+    <string name="DownloadEmojiSet">Загрузка %1$s</string>
     <string name="EmojiSets">Наборы эмодзи</string>
     <string name="MyEmojiSets">Мои наборы эмодзи</string>
     <string name="InstalledEmojiSet">Установлен</string>
     <string name="InstallingEmojiSet">Установка…</string>
-    <string name="UpdateEmojiSet">Обновление %s</string>
+    <string name="UpdateEmojiSet">Обновление %1$s</string>
     <string name="EmojiSetHint">Это влияет на внешний вид эмодзи только для вас. Другие видят их в зависимости от своих предпочтений.</string>
     <string name="CustomEmojiSetHint">Импортируйте и выбирайте наборы эмодзи из вашего внутреннего хранилища.</string>
     <string name="AddEmojiSet">Добавить набор эмодзи</string>
@@ -152,7 +152,7 @@
     <string name="ClearRecentChatAlert">Вы хотите очистить недавние чаты?</string>
     <string name="CloudConfig">Облачные настройки</string>
     <string name="CloudConfigDesc">Сохраните ваши «Настройки N» в облаке Telegram.</string>
-    <string name="CloudConfigSyncDate">Последняя синхронизация: %s, облако: %s</string>
+    <string name="CloudConfigSyncDate">Последняя синхронизация: %1$s, облако: %2$s</string>
     <string name="CloudConfigSyncDateNever">никогда</string>
     <string name="CloudConfigSync">Синхронизировать с облаком</string>
     <string name="CloudConfigSyncShort">Синхронизировать</string>

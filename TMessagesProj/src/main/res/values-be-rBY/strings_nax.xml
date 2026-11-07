@@ -80,7 +80,7 @@
     <string name="ShadowBanChannelAdded">Дададзена да **фільтраў канала**.</string>
     <string name="ShadowBanChannelRemoved">Выдалена з **фільтраў канала**.</string>
     <string name="botCommandConfirmTitle">Адправіць каманду</string>
-    <string name="botCommandConfirmText">Хочаце адпраўзіць гэтую каманду?\n\n%s</string>
+    <string name="botCommandConfirmText">Хочаце адпраўзіць гэтую каманду?\n\n%1$s</string>
     <string name="MessageSavingSaveMedia">Захоўваць медыя</string>
     <string name="MessageSavingSaveMediaHint">Націсніце для падрабязнасцей.</string>
     <string name="MessageSavingSaveMediaInPrivateChats">… у прыватных чатах</string>

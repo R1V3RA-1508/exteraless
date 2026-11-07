@@ -96,8 +96,8 @@
     <string name="OEAyuOtherHeader">Inne</string>
     <string name="OEAyuDangerHeader">Strefa zagrożenia</string>
     <string name="OEAyuSaveReadDateInfo">Zapamiętuje, kiedy Twoje wiadomości zostały przeczytane i odsłuchane. Czas widać w menu wiadomości, gdy Telegram go nie podaje.</string>
-    <string name="OEAyuPlayedTodayAt">odsłuchano o %s</string>
-    <string name="OEAyuPlayedYesterdayAt">odsłuchano wczoraj o %s</string>
+    <string name="OEAyuPlayedTodayAt">odsłuchano o %1$s</string>
+    <string name="OEAyuPlayedYesterdayAt">odsłuchano wczoraj o %1$s</string>
     <string name="OEAyuPlayedDateTimeAt">odsłuchano %1$s o %2$s</string>
     <string name="OEAyuForwardLoadingMedia">Pobieranie multimediów</string>
     <string name="OEAyuForwardLoadingCount">Pliki: %1$d z %2$d</string>

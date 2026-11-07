@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="N_Config">Налаштування N</string>
-    <string name="CombineMessage">Об\'єднати повідомлення</string>
+    <string name="CombineMessage">Об'єднати повідомлення</string>
     <string name="TextStyle">Стиль тексту</string>
     <string name="NoiseSuppressAndVoiceEnhance">Покращення голосу</string>
     <string name="RepeatAsCopy">Відповісти як копія</string>
@@ -67,11 +67,11 @@
     <string name="PushServiceTypeInApp">У застосунку</string>
     <string name="PushServiceTypeInAppDialog">Показувати постійне сповіщення</string>
     <string name="SendMp4DocumentAsVideo">Надіслати MP4 «без стиснення» як відео</string>
-    <string name="StickersChooseShortNameForStickerPack">Виберіть коротке ім\'я для свого набору.</string>
+    <string name="StickersChooseShortNameForStickerPack">Виберіть коротке ім'я для свого набору.</string>
     <string name="StickersCopyStickerSet">Копіювати набір наліпок</string>
     <string name="DisableChannelMuteButton">Приховати нижню панель у каналах</string>
     <string name="DisablePreviewVideoSoundShortcut">Вимкнути вмикання звуку відео кнопками гучності</string>
-    <string name="DisablePreviewVideoSoundShortcutNotice">Не вмикати звук у прев\'ю відео кнопкою гучності.</string>
+    <string name="DisablePreviewVideoSoundShortcutNotice">Не вмикати звук у прев'ю відео кнопкою гучності.</string>
     <string name="PreviewSendPhoto">Надіслати фото</string>
     <string name="PreviewSendVideo">Надіслати відео</string>
     <string name="PreviewSendFile">Надіслати файл</string>
@@ -97,7 +97,7 @@
     <string name="SendWithoutPangu">Надіслати без Pangu</string>
     <string name="DefaultHlsVideoQuality">Якість відео HLS за замовчуванням</string>
     <string name="DisableBotOpenButton">Вимкнути кнопку відкриття бота</string>
-    <string name="CustomTitleUserName">Використовувати ім\'я користувача як заголовок</string>
+    <string name="CustomTitleUserName">Використовувати ім'я користувача як заголовок</string>
     <string name="EnhancedVideoBitrate">Покращений бітрейт відео</string>
     <string name="ActionBarButtons">Кнопки панелі дій</string>
     <string name="VideoPlayerDecoder">Декодер відео</string>

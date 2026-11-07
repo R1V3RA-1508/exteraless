@@ -6,7 +6,7 @@
     <string name="HidePhone">Ẩn số điện thoại</string>
     <string name="DeleteAllFromSelf">Xóa tất cả tin nhắn của tôi</string>
     <string name="DeleteAllFromSelfAlert">Cảnh báo, tính năng này sẽ **xoá tất cả tin nhắn của bạn** trong đoạn chat này cho **tất cả** thành viên.</string>
-    <string name="DeleteAllFromSelfAlertBefore">Cảnh báo, tính năng này sẽ ** xóa tất cả tin nhắn của bạn từ %s** trong đoạn chat này với **tất cả mọi người**.</string>
+    <string name="DeleteAllFromSelfAlertBefore">Cảnh báo, tính năng này sẽ ** xóa tất cả tin nhắn của bạn từ %1$s** trong đoạn chat này với **tất cả mọi người**.</string>
     <string name="DeleteAllFromSelfBefore">Trước khi...</string>
     <string name="DeleteAllFromSelfAdmin">Với quyền admin</string>
     <string name="DeleteAllFromSelfDone">Tất cả tin nhắn củ bạn đã bị xóa</string>
@@ -105,7 +105,7 @@
     <string name="channelLabel">kênh</string>
     <string name="MutualContact">Liên hệ chung</string>
     <string name="MutualContactDescription">Người này là người liên hệ chung.</string>
-    <string name="DatacenterStatusAbout">Kiểm tra trạng thái của Telegram\'s **Trung tâm dữ liệu**.</string>
+    <string name="DatacenterStatusAbout">Kiểm tra trạng thái của Telegram's **Trung tâm dữ liệu**.</string>
     <string name="DatacenterStatus">Trạng thái trung tâm dữ liệu</string>
     <string name="enhancedFileLoader">Tăng tốc độ tải xuống</string>
     <string name="mapDriftingFixForGoogleMaps">Sửa lỗi google maps cho trung quốc</string>
@@ -130,12 +130,12 @@
     <string name="PasscodePanicCodeAbout">Sử dụng mã phân huỷ nếu có chuyện gì không may xảy ra.</string>
     <string name="RestrictionReason">Lý do bị giới hạn</string>
     <string name="InvalidCustomEmojiTypeface">File font chữ không hợp lệ</string>
-    <string name="DownloadEmojiSet">Tải xuống %s</string>
+    <string name="DownloadEmojiSet">Tải xuống %1$s</string>
     <string name="EmojiSets">Danh sách emoji</string>
     <string name="MyEmojiSets">Danh sách emoji của tôi</string>
     <string name="InstalledEmojiSet">Đã cài</string>
     <string name="InstallingEmojiSet">Đang cài...</string>
-    <string name="UpdateEmojiSet">Cập nhật %s</string>
+    <string name="UpdateEmojiSet">Cập nhật %1$s</string>
     <string name="EmojiSetHint">Emoji này chỉ hiển thị với bạn, những người khác sẽ hiện emoji mặc định</string>
     <string name="CustomEmojiSetHint">Nhập và chọn bộ emoji từ bộ nhớ của bạn</string>
     <string name="AddEmojiSet">Thêm bộ emoji </string>
@@ -152,7 +152,7 @@
     <string name="ClearRecentChatAlert">Bạn có muốn xóa các cuộc trò chuyện gần đây không?</string>
     <string name="CloudConfig">Cài đặt đám mây</string>
     <string name="CloudConfigDesc">Lưu Cài đặt NagramX của bạn vào đám mây Telegram.</string>
-    <string name="CloudConfigSyncDate">Lần đồng bộ cuối: %s, đám mây: %s</string>
+    <string name="CloudConfigSyncDate">Lần đồng bộ cuối: %1$s, đám mây: %2$s</string>
     <string name="CloudConfigSyncDateNever">không bao giờ</string>
     <string name="CloudConfigSync">Đồng bộ lên cloud</string>
     <string name="CloudConfigSyncShort">Đồng bộ</string>

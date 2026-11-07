@@ -6,7 +6,7 @@
     <string name="HidePhone">Ocultar número de teléfono</string>
     <string name="DeleteAllFromSelf">Eliminar Mis Mensajes</string>
     <string name="DeleteAllFromSelfAlert">¡Advertencia! Esto **borrará todos los mensajes que hayas enviado** en este chat para **todos** los participantes.</string>
-    <string name="DeleteAllFromSelfAlertBefore">¡Advertencia! Esto **eliminará todos los mensajes tuyos anteriores a %s** en este chat para **todos** los participantes.</string>
+    <string name="DeleteAllFromSelfAlertBefore">¡Advertencia! Esto **eliminará todos los mensajes tuyos anteriores a %1$s** en este chat para **todos** los participantes.</string>
     <string name="DeleteAllFromSelfBefore">Antes...</string>
     <string name="DeleteAllFromSelfAdmin">Con permisos de administrador</string>
     <string name="DeleteAllFromSelfDone">Todos tus mensajes han sido borrados</string>
@@ -130,12 +130,12 @@
     <string name="PasscodePanicCodeAbout">Use el código de pánico para salir de todas las cuentas si algo sale mal.</string>
     <string name="RestrictionReason">Motivo de la restricción</string>
     <string name="InvalidCustomEmojiTypeface">Archivo de fuente no válido.</string>
-    <string name="DownloadEmojiSet">Descarga %s</string>
+    <string name="DownloadEmojiSet">Descarga %1$s</string>
     <string name="EmojiSets">Packs de emojis</string>
     <string name="MyEmojiSets">Mis pakcs de emojis</string>
     <string name="InstalledEmojiSet">Instalado</string>
     <string name="InstallingEmojiSet">Instalando…</string>
-    <string name="UpdateEmojiSet">Actualización %s</string>
+    <string name="UpdateEmojiSet">Actualización %1$s</string>
     <string name="EmojiSetHint">Esto afecta la apariencia de emojis sólo para ti. Los demás los verán según sus preferencias.</string>
     <string name="CustomEmojiSetHint">Importa y elige sets de emojis desde tu almacenamiento interno.</string>
     <string name="AddEmojiSet">Añadir conjunto de emoji</string>
@@ -152,7 +152,7 @@
     <string name="ClearRecentChatAlert">¿Quieres borrar tus chats recientes?</string>
     <string name="CloudConfig">Ajustes de la nube</string>
     <string name="CloudConfigDesc">Guarda tus N-ajustes en la nube de Telegram.</string>
-    <string name="CloudConfigSyncDate">Última sincronización: %s, nube: %s</string>
+    <string name="CloudConfigSyncDate">Última sincronización: %1$s, nube: %2$s</string>
     <string name="CloudConfigSyncDateNever">nunca</string>
     <string name="CloudConfigSync">Sincronizar a la nube</string>
     <string name="CloudConfigSyncShort">Sincronizar</string>
