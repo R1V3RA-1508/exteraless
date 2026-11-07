@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AppName">exteraless</string>
+    <string name="AppNameBeta">Telegram Beta</string>
+    <string name="LanguageName">Беларуская</string>
+    <string name="English">Англійская</string>
+    <string name="LanguageNameInEnglish">Belarusian</string>
+    <string name="LanguageCode">be_BY</string>
+    <string name="ContinueOnThisLanguage">Працягнуць на беларускай</string>
+
+    <string name="YourPhone">Ваш нумар тэлефона</string>
+    <string name="StartText">Калі ласка, пацвердзіце код краіны і ўвядзіце нумар тэлефона.</string>
+    <string name="Country">Краіна</string>
+    <string name="YourNumber">Ваш нумар</string>
+    <string name="PhoneNumber">Нумар тэлефона</string>
+    <string name="ChooseCountry">Выберыце краіну</string>
+    <string name="WrongCountry">Няправільны код краіны</string>
+    <string name="AccountAlreadyLoggedIn">Гэты ўліковы запіс ужо ўвайшоў у гэты прыкладанне.</string>
+    <string name="AccountSwitch">Пераключыць</string>
+    <string name="SyncContacts">Сінонізаваць кантакты</string>
+    <string name="SyncContactsOn">Кантакты з гэтага прылады будуць дададзены да вашага ўліковага запісу.</string>
+    <string name="SyncContactsOff">Кантакты з гэтага прылады не будуць дададзены да вашага ўліковага запісу.</string>
+    <string name="ConfirmCorrectNumber">Гэта правільны нумар?</string>
+    <string name="WrongNumberFormat">Няправільны фармат</string>
+    <string name="EditNumber">Рэдагаваць нумар</string>
+
+    <string name="YourCode">Праверка нумара</string>
+    <string name="Code">Код</string>
+    <string name="WrongNumber">Няправільны нумар?</string>
+    <string name="WrongCode">Вы ўвялі няправільны код. Паспрабуйце яшчэ раз.</string>
+    <string name="DidNotGetTheCode">Не атрымалі код?</string>
+    <string name="CancelAccountReset">Скасаваць скіданне ўліковага запісу</string>
+    <string name="ResetAccount">Скінуць уліковы запіс</string>
+    <string name="RequestSmsButton">Атрымаць код па SMS</string>
+    <string name="RequestCallButton">Патэлефанаваць, каб прачытаць код</string>
+
+    <string name="YourName">Ваша імя</string>
+    <string name="RegisterText2">Увядзіце сваё імя і дадайце фатаграфію профілю.</string>
+    <string name="FirstName">Імя (абавязкова)</string>
+    <string name="FirstNameSmall">Імя</string>
+    <string name="LastName">Прозвішча (неабавязкова)</string>
+    <string name="LastNameSmall">Прозвішча</string>
+    <string name="CancelRegistration">Скасаваць рэгістрацыю</string>
+
+    <string name="Settings">Налады</string>
+    <string name="Refresh">Абнавіць</string>
+    <string name="Contacts">Кантакты</string>
+    <string name="NewGroup">Новая група</string>
+    <string name="Yesterday">учора</string>
+    <string name="NoResult">Няма вынікаў</string>
+    <string name="NoChats">Вітаем у Telegram</string>
+    <string name="WaitingForNetwork">Чаканне сеткі...</string>
+    <string name="Connecting">Падключэнне...</string>
+    <string name="Connected">Падключана</string>
+    <string name="Available">Даступна</string>
+    <string name="Unavailable">Недаступна</string>
+    <string name="ClearHistory">Ачысціць гісторыю</string>
+    <string name="EnableAutoDelete">Уключыць аўтаматычнае выдаленне</string>
+    <string name="AutoDeleteConfirm">Пацвердзіць</string>
+</resources>
